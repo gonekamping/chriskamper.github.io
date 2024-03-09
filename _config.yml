@@ -1,2 +1,10 @@
+# URL:
+url: "https://chriskamper.github.io"
+
+# Build Settings:
 theme: jekyll-theme-minimal
 title: Chris Kamper
+
+# Contact Information:'
+email: chris.kamp9@gmail.com
+github_username: gonekamping
